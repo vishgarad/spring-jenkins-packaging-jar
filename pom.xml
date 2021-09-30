@@ -11,6 +11,7 @@
 	<groupId>com.jenkins</groupId>
 	<artifactId>spring-jenkins-packaging-jar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>spring-jenkins-packaging-jar</name>
 	<description>Demo project for Spring Boot with jenkins</description>
 	<properties>
